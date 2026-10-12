@@ -17,5 +17,5 @@ python train.py --c_param 0.5 --solver newton-cg
 # Corrida 5: semilla = 99
 python train.py --c_param 1.0 --solver lbfgs --random_state 99
 
-#Corrida 6 = Defecto   Para probar que obtuve el mismo resultado
+# Corrida 6 = Defecto   Para probar que obtuve el mismo resultado
 Python train.py
